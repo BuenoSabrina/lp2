@@ -1,0 +1,13 @@
+Tipo Abstrato de Dados:
+É uma especificação de um conjunto de dados e operações que podem ser executadas sobre esses dados,como exemplo temos a
+classe.
+
+Classe:é um tipo abstratato de dados, é um conceito estático que representa um modelol abstrato e possui 
+atributos ou campos e/ou operações.
+
+Objeto:é a instância de uma classe, sua materialização, é um conjunto dinâmico, eles são alojados na memória.
+
+Mensagens:uma espécie de 'mensagem fictícia' que ocorre dentro do sistema para 'invocar' diretamente uma classe 
+com finalidade de usá-la ou simplesmente invocar 'estados' da classe.Resumindo, mensagem seria uma ativação de 
+classe e/ou derivados.
+
