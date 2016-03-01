@@ -1,0 +1,18 @@
+No exercício 3 os resultados foram:
+
+O valor da soma foi:68
+O valor da multiplicação foi:2700
+O valor da divisão foi:0
+O valor da subtração:22
+
+No exercício 4 os resultados foram:
+O valor da soma foi:68.0
+O valor da multiplicação foi:2700.0
+O valor da divisão foi:0.75
+O valor da subtração:22.0
+
+No exercício 5 os resultados foram:
+O valor da soma foi:68.0
+O valor da multiplicação foi:2700.0
+O valor da divisão foi:0.75
+O valor da subtração:22.0
