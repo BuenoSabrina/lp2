@@ -7,7 +7,4 @@ atributos ou campos e/ou operações.
 
 Objeto:é a instância de uma classe, sua materialização, é um conjunto dinâmico, eles são alojados na memória.
 
-Mensagens:uma espécie de 'mensagem fictícia' que ocorre dentro do sistema para 'invocar' diretamente uma classe 
-com finalidade de usá-la ou simplesmente invocar 'estados' da classe.Resumindo, mensagem seria uma ativação de 
-classe e/ou derivados.
-
+Mensagens: São métodos, ou seja, operações que a classe realiza. 
